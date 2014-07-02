@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">15dp</dimen>
+    <dimen name="activity_vertical_margin">15dp</dimen>
+    <dimen name="set_button_stroke">1dp</dimen>
+    
+    <!-- Main Activity  -->
+    <dimen name="set_tab_width_height">50dp</dimen>
+      <dimen name="set_title_text_size">10sp</dimen>
+    
+    <dimen name="set_tabhost_text_size">10sp</dimen>
+    <dimen name="set_list_view_text_size">15sp</dimen>
+    
+    <!-- Animal Detail   -->
+    <dimen name="text_size_name_th">13sp</dimen>
+    <dimen name="text_size_name_en">7sp</dimen>
+    <dimen name="text_size_name_sci">7sp</dimen>
+    <dimen name="text_size_animal_detail">12sp</dimen>
+    
+     <!-- animal detail layout  -->
+    <dimen name="layout_padding">5dp</dimen>
+    <dimen name="set_image_max_width">120dp</dimen>
+    <dimen name="set_image_max_height">120dp</dimen>
+    <dimen name="set_image_type_width">30dp</dimen>
+    <dimen name="set_image_type_heigth">30dp</dimen>
+
+     <dimen name="text_size_animal_detail_webview">10sp</dimen>
+     <dimen name="detail_set_location_img_height">95dp</dimen>
+     
+     <dimen name="listview__image_width_heigth">30dp</dimen>
+    
+</resources>
